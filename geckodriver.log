@@ -1,0 +1,44 @@
+1651127090196	geckodriver	INFO	Listening on 127.0.0.1:60734
+1651127093246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofilep5BSqy"
+1651127095015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofilep5BSqy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60735/devtools/browser/845b2cb5-9c92-4fd0-808a-1ec1d6600691
+1651127101501	Marionette	INFO	Listening on port 60768
+Read port: 60768
+1651127101585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://idcs-8e68e7f3beb54ec0960d374f26f93174.identity.oraclecloud.com"
+1651127105175	Marionette	INFO	Stopped listening on port 60768
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\613367\AppData\Local\Temp\1\rust_mozprofilep5BSqy\protections.sqlite
+1651127133762	geckodriver	INFO	Listening on 127.0.0.1:59332
+1651127136684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofile5G4WkS"
+1651127137814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofile5G4WkS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59333/devtools/browser/69635972-27bc-4d21-872c-3b6bac6d779a
+1651127142849	Marionette	INFO	Listening on port 59362
+Read port: 59362
+1651127142937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://idcs-8e68e7f3beb54ec0960d374f26f93174.identity.oraclecloud.com"
+1651127211369	Marionette	INFO	Stopped listening on port 59362
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651128684112	geckodriver	INFO	Listening on 127.0.0.1:61819
+1651128686943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofilezawuA3"
+1651128688018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofilezawuA3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61820/devtools/browser/7551211b-fe76-4a1a-95d2-5532699a4da1
+1651128692807	Marionette	INFO	Listening on port 61850
+Read port: 61850
+1651128692887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://idcs-8e68e7f3beb54ec0960d374f26f93174.identity.oraclecloud.com"
+1651128696028	Marionette	INFO	Stopped listening on port 61850
+1651128724239	geckodriver	INFO	Listening on 127.0.0.1:50961
+1651128727170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofileq2Ndxj"
+1651128728315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\613367\\AppData\\Local\\Temp\\1\\rust_mozprofileq2Ndxj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50962/devtools/browser/b40a0bab-311a-41f8-bd7b-93112df4868c
+1651128734067	Marionette	INFO	Listening on port 50997
+Read port: 50997
+1651128734167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://idcs-8e68e7f3beb54ec0960d374f26f93174.identity.oraclecloud.com"
+1651128802567	Marionette	INFO	Stopped listening on port 50997

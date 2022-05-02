@@ -1,0 +1,2 @@
+2022-04-19 21:29:31,579 :INFO :utilities.test_custLogger :hello
+2022-04-19 21:29:31,579 :WARNING :utilities.test_custLogger :hi
