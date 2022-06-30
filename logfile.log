@@ -53,3 +53,455 @@
 2022-04-28 12:21:36,004 :INFO :utilities.BaseClass :************* homepage_title test started**************
 2022-04-28 12:22:17,142 :INFO :utilities.BaseClass :***********Verifying Login test***********
 2022-04-28 12:22:17,142 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-03 11:21:05,340 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-03 11:21:29,171 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-03 11:21:29,171 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-03 11:23:19,588 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-03 11:23:19,588 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-03 11:23:19,588 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-03 12:03:12,597 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-03 12:03:14,173 :INFO :utilities.BaseClass :***************homepage_title test failed*****************
+2022-05-03 12:03:58,519 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-03 12:03:58,519 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-03 12:05:49,384 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-03 12:05:49,384 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-03 12:05:49,384 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 13:41:05,182 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-08 13:41:05,607 :INFO :utilities.BaseClass :***************homepage_title test failed*****************
+2022-05-08 13:41:31,462 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:41:31,462 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:43:21,902 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 13:43:21,902 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 13:43:21,902 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 13:44:02,058 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:44:02,058 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:44:02,058 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:44:02,058 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:53:24,666 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-08 13:53:25,254 :INFO :utilities.BaseClass :**************homepage_title test passed**********
+2022-05-08 13:54:01,553 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:54:01,553 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:55:51,935 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 13:55:51,935 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 13:55:51,935 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 13:56:50,128 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:56:50,128 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:56:50,128 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 13:56:50,128 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 14:34:44,114 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-08 14:34:44,680 :INFO :utilities.BaseClass :**************homepage_title test passed**********
+2022-05-08 14:35:21,313 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 14:35:21,313 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 14:37:11,700 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:37:11,700 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:37:11,700 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:38:10,917 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:38:10,917 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:38:10,917 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:38:10,917 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:52:56,775 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-08 14:52:57,440 :INFO :utilities.BaseClass :**************homepage_title test passed**********
+2022-05-08 14:53:35,915 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 14:53:35,915 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 14:55:26,327 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:55:26,327 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:55:26,327 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:56:31,818 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:56:31,818 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:56:31,818 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:56:31,818 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 14:59:42,421 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:59:42,421 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:59:42,421 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:59:42,421 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:59:42,421 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 14:59:42,421 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:08:51,100 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-08 15:08:51,789 :INFO :utilities.BaseClass :**************homepage_title test passed**********
+2022-05-08 15:09:31,804 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 15:09:31,804 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 15:11:22,202 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:11:22,202 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:11:22,202 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:12:22,872 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 15:12:22,872 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 15:12:22,872 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 15:12:22,872 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 15:15:33,525 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:15:33,525 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:15:33,525 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:15:33,525 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:15:33,525 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 15:15:33,525 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:25:26,339 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-08 23:25:26,908 :INFO :utilities.BaseClass :**************homepage_title test passed**********
+2022-05-08 23:26:04,130 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 23:26:04,130 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-08 23:27:54,518 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:27:54,518 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:27:54,518 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:28:53,926 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 23:28:53,926 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 23:28:53,926 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 23:28:53,926 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-08 23:32:04,535 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:32:04,535 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:32:04,535 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:32:04,535 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:32:04,535 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-08 23:32:04,535 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:01:17,967 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-09 11:01:18,807 :INFO :utilities.BaseClass :**************homepage_title test passed**********
+2022-05-09 11:02:06,549 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-09 11:02:06,549 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-09 11:03:57,346 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:03:57,346 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:03:57,346 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:05:03,690 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:05:03,690 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:05:03,690 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:05:03,690 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:08:14,654 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:08:14,654 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:08:14,654 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:08:14,654 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:08:14,654 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:08:14,654 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:09:00,826 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:09:00,826 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:09:00,826 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:09:00,826 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:09:00,826 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:09:00,826 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:09:00,826 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:32:01,991 :INFO :utilities.BaseClass :************* homepage_title test started**************
+2022-05-09 11:32:02,796 :INFO :utilities.BaseClass :**************homepage_title test passed**********
+2022-05-09 11:32:47,415 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-09 11:32:47,415 :INFO :utilities.BaseClass :***********Verifying Login test***********
+2022-05-09 11:34:38,036 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:34:38,036 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:34:38,036 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:35:42,310 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:35:42,310 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:35:42,310 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:35:42,310 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:38:53,338 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:38:53,338 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:38:53,338 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:38:53,338 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:38:53,338 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:38:53,338 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 11:39:39,508 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:39:39,508 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:39:39,508 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:39:39,508 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:39:39,508 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:39:39,508 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 11:39:39,508 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 13:52:18,757 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 13:59:54,276 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 14:11:56,320 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 14:21:13,857 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 14:27:56,518 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 14:32:37,562 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 14:32:37,562 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 14:32:37,562 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 19:53:01,223 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 21:00:38,102 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-09 21:05:20,163 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 21:05:20,163 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-09 21:05:20,163 :INFO :utilities.BaseClass :*********** Login Test passed
+2022-05-10 12:43:37,767 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 12:48:18,977 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 12:48:18,977 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 12:48:18,977 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 13:05:12,344 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 13:24:14,552 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 13:47:05,928 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 14:09:38,206 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 14:15:20,626 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 14:15:20,626 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 14:15:20,626 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 14:23:50,883 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 14:27:45,404 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 14:33:27,843 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 14:33:27,843 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 14:33:27,843 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 15:01:36,183 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 15:30:36,631 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 15:36:08,935 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 15:36:08,935 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 15:36:08,935 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 16:07:42,398 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 17:06:35,984 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 17:14:40,790 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 17:20:11,958 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:20:11,958 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:20:11,958 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:20:11,958 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:25:16,032 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 17:30:47,183 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:30:47,183 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:30:47,183 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:30:47,183 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 17:30:47,271 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 17:30:47,271 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 17:30:47,271 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 17:30:47,271 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 21:28:02,034 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-10 21:33:33,181 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 21:33:33,181 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 21:33:33,181 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 21:33:33,181 :INFO :utilities.BaseClass :call in profile count validation method
+2022-05-10 21:33:33,273 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 21:33:33,273 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 21:33:33,273 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-10 21:33:33,273 :INFO :utilities.BaseClass :***********ProfileUpload Test validation passed
+2022-05-11 17:48:14,772 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-11 17:53:11,990 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-11 18:24:34,737 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-11 21:18:29,925 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-11 21:59:27,208 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-11 22:21:32,269 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-11 22:43:24,456 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-11 22:58:39,058 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 11:52:58,088 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 12:08:36,959 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 12:16:10,976 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 12:16:10,976 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 12:16:10,976 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 12:36:17,437 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 12:43:50,574 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 12:43:50,574 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 12:43:50,574 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 14:43:33,464 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 14:51:05,448 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 14:51:05,448 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 14:51:05,448 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 14:55:07,768 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 15:02:39,705 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:02:39,705 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:02:39,705 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:06:07,510 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 15:13:39,479 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:13:39,479 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:13:39,479 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:24:17,295 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 15:31:49,209 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:31:49,209 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:31:49,209 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:51:37,763 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 15:59:39,691 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:59:39,691 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 15:59:39,691 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 17:26:56,141 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 17:34:59,849 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 17:34:59,849 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 17:34:59,849 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 17:38:26,276 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 17:45:39,565 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 17:45:39,565 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 17:45:39,565 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 17:58:15,883 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 18:05:29,077 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 18:05:29,077 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 18:05:29,077 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 18:21:31,339 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 18:34:59,519 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 18:45:22,700 :INFO :utilities.BaseClass :***********Verifying Profile Launch test***********
+2022-05-12 18:52:35,886 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 18:52:35,886 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-12 18:52:35,886 :INFO :utilities.BaseClass :rc created count not matched  successfully
+2022-05-15 14:47:39,785 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 15:00:35,876 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 15:20:52,763 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 15:44:04,537 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 15:52:59,927 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 20:09:50,888 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 20:19:35,866 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 20:31:17,133 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 20:51:25,958 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 21:20:19,821 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 21:43:15,967 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 21:57:19,194 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 22:38:53,584 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 23:06:13,871 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 23:17:45,772 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 23:30:38,466 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 23:41:21,213 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-15 23:48:33,994 :INFO :utilities.BaseClass :rc balance not imported successfully
+2022-05-15 23:48:33,994 :INFO :utilities.BaseClass :rc balance not imported successfully
+2022-05-15 23:56:51,870 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-16 00:11:22,266 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-16 00:18:55,208 :INFO :utilities.BaseClass :rc balance not imported successfully
+2022-05-16 00:18:55,208 :INFO :utilities.BaseClass :rc balance not imported successfully
+2022-05-16 15:30:29,771 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-16 15:50:14,330 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-16 15:57:45,933 :INFO :utilities.BaseClass :rc balance imported successfully  
+2022-05-16 15:57:45,933 :INFO :utilities.BaseClass :rc balance imported successfully  
+2022-05-18 19:11:26,423 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-18 19:17:46,808 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-19 00:46:45,643 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-05-19 00:54:18,531 :INFO :utilities.BaseClass :rc sbs bulk balance imported successfully  
+2022-05-19 00:54:18,531 :INFO :utilities.BaseClass :rc sbs bulk balance imported successfully  
+2022-06-08 20:01:43,189 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-08 20:09:17,040 :INFO :utilities.BaseClass :rc sbs bulk balance imported successfully  
+2022-06-08 20:09:17,040 :INFO :utilities.BaseClass :rc sbs bulk balance imported successfully  
+2022-06-09 20:50:19,288 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 09:39:50,187 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 09:57:24,162 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 10:14:25,798 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 10:34:20,620 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 11:06:44,744 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 11:18:39,087 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 11:38:43,017 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 11:52:14,184 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 15:39:39,881 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 16:00:10,163 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 16:09:06,609 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-10 16:27:18,746 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-14 10:25:23,235 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-14 10:36:14,194 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-14 10:45:17,647 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-14 11:05:10,523 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-14 11:12:21,131 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-15 16:34:03,831 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-15 16:51:35,102 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 09:37:51,439 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 09:54:56,198 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 10:07:58,334 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 10:39:44,769 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 10:51:57,546 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 11:03:29,481 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 11:19:39,590 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 11:30:19,159 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 11:41:56,662 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 11:52:45,286 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 18:14:55,584 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 18:25:59,053 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 18:40:31,388 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 22:27:17,297 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 22:38:38,658 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 22:52:40,750 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-16 23:16:33,623 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 09:49:16,310 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 10:34:41,314 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 11:35:49,824 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 11:53:28,933 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 14:18:10,729 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 15:59:00,421 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 16:16:39,330 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 16:33:01,046 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 16:53:16,703 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 17:14:35,267 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 18:00:24,791 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-17 18:11:57,194 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 08:07:51,177 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 10:24:09,506 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 10:35:26,121 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 10:52:07,259 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 11:05:27,828 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 11:32:54,821 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 11:45:21,369 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 12:22:21,769 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 12:32:44,232 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 13:34:46,261 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 13:50:17,071 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 13:58:08,284 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 14:03:27,865 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 14:46:20,107 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 22:52:19,939 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 22:58:55,134 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 23:04:33,843 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 23:12:12,817 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-20 23:24:50,250 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 00:13:51,708 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 00:19:47,622 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 00:31:01,330 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 00:49:55,292 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 09:13:01,737 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 09:28:46,805 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 09:51:13,064 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 10:00:51,203 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 10:09:51,180 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 10:22:30,827 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 11:31:44,875 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 12:00:36,842 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 12:22:32,669 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 12:59:58,188 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 13:09:14,085 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 13:26:28,726 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 13:50:29,483 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 14:03:19,875 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 14:34:26,494 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 14:51:29,629 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 16:05:25,844 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 16:23:45,196 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 16:34:09,616 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-21 16:55:39,389 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 07:42:16,006 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 08:01:04,714 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 08:13:14,016 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 11:50:41,834 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 12:50:00,628 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 13:23:48,260 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 13:46:42,661 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 14:03:34,533 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 14:57:57,979 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 15:12:11,415 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 16:16:51,132 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 16:34:37,729 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-22 19:35:16,225 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-23 17:42:47,193 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-23 18:01:50,983 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-23 18:17:54,228 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-27 22:40:36,126 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-27 22:57:42,927 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-27 23:12:16,633 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-27 23:37:17,312 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 09:07:35,073 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 10:11:37,440 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 10:37:17,386 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 11:07:50,907 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 12:45:38,000 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 13:10:20,874 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 13:28:15,612 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 14:21:47,073 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 16:21:45,165 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-28 16:26:08,612 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-29 08:47:20,331 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-29 09:10:24,488 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-29 09:26:01,472 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 09:26:01,472 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 09:26:01,472 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 09:31:24,405 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-29 09:47:00,571 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 09:47:00,571 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 09:47:00,571 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 10:24:12,685 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-29 10:39:57,122 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 10:39:57,122 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 10:39:57,122 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-29 10:59:39,892 :INFO :utilities.BaseClass :***********Verifying balance load  test***********
+2022-06-30 11:14:31,419 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 11:22:44,368 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 11:32:58,446 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 11:45:56,926 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 11:53:33,113 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 12:01:39,714 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 12:09:58,866 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 12:15:03,561 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 12:18:55,592 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 12:24:25,377 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 12:39:57,183 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 12:43:40,702 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 13:10:09,346 :INFO :utilities.BaseClass :***********Verifying rc status autoClose***********
+2022-06-30 17:14:35,559 :INFO :utilities.BaseClass :***********Verifying rule updation for multiple profiles***********
+2022-06-30 17:30:30,668 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-30 17:30:30,668 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-30 17:51:41,983 :INFO :utilities.BaseClass :***********Verifying rule updation for multiple profiles***********
+2022-06-30 17:59:59,545 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-30 17:59:59,545 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-30 18:15:32,345 :INFO :utilities.BaseClass :***********Verifying rule updation for multiple profiles***********
+2022-06-30 18:23:14,092 :INFO :utilities.BaseClass :rule added successfully for two profiles
+2022-06-30 18:23:14,092 :INFO :utilities.BaseClass :rule added successfully for two profiles

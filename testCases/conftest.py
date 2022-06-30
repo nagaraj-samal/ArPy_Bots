@@ -1,7 +1,8 @@
 import time
 import pytest
 from selenium import webdriver
-from  webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.chrome import  ChromeDriverManager
+
 #@pytest.fixture(scope="class")
 from selenium.webdriver.ie.service import Service
 
@@ -18,8 +19,12 @@ from webdriver_manager.firefox import GeckoDriverManager
 @pytest.fixture(autouse=True)
 def setup(request,browser):
     if browser == "chrome":
-        _driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+        # _driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+        # _driver.get("https://easinstance3-ctsoraclecloudaccount.epm.us-phoenix-1.ocs.oraclecloud.com/epmcloud")
+        # time.sleep(20)
+        _driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         _driver.get("https://easinstance3-ctsoraclecloudaccount.epm.us-phoenix-1.ocs.oraclecloud.com/epmcloud")
+        time.sleep(5)
 
     elif browser =="ff":
         print("launch firefox")
@@ -40,6 +45,7 @@ def setup(request,browser):
 # def getBrowsername(browsername):
 #     _browsername = browsername
 #     return _browsername
+
 
 def pytest_addoption(parser):
     parser.addoption("--browser")

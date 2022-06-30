@@ -1,6 +1,5 @@
 import time
 from selenium.webdriver.common.by import By
-
 from utilities.BaseClass import BaseClass
 
 from selenium import webdriver
@@ -16,7 +15,6 @@ class Login(BaseClass):
     user_signOut_xpath = "//*[@id='ap1:i15:5:i12:0:cl5']"
     lp_title_xpath = "//span[text()='Account Reconciliation']"
     lp_title = "Account Reconciliation"
-
 
 
     def __init__(self, driver):
@@ -41,7 +39,7 @@ class Login(BaseClass):
         log=self.getLogger()
         self.driver.find_element(By.XPATH, self.button_login_xpath).click()
         #return self.driver
-        time.sleep(30)
+        time.sleep(5)
         # self.y = Login(self.driver)
         # self.z = self.driver.find_element(By.XPATH,self.lp_title_xpath)
         #
