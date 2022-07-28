@@ -33,9 +33,21 @@ class Reconciliation(BaseClass):
     reconciliation_balance_import_information_close_btn_xpath = "//button[@id='zr1:0:zt0:0:fccErrorPopup:dE::ok']"
     reconciliation_balance_import_data_load_results_xpath = "//a[@id='zr1:0:zt0:0:psDash:0:ImpBal:0:cl2']"
     reconciliation_balance_import_load_status_xpath = "//*[@id='zr1:0:zt0:0:psDash:0:ImpBal:0:rresult:1:plmStatus']"
+
     reconciliation_import_expected_status = "Status Completed"
 
+    reconciliation_rc22_load_result_close_xpath = "//button[@id='zr1:0:zt0:0:psDash:0:cmdManagePremappedBalancesClose']"
+
+
     rc_created_status_xpath = "//*[@id='zr1:0:zt0:0:psDash:0:tblList::db']/table/tbody/tr[1]/td[1]/div/table/tbody/tr/td[3]/span/span"
+
+    rc_created_src_data_load_filepath_mar22 ="C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\b1_src.csv"
+
+    rc_created_ac_status_xpath = "//span[@title='Closed']"
+
+    rc_search_box_xpath = "// input[ @ id = 'zr1:0:zt0:0:psDash:0:search::content']"
+    rc_created_ac_expected_status = "Closed"
+
 
 
 
@@ -43,6 +55,9 @@ class Reconciliation(BaseClass):
 
 
     def __init__(self,driver):
+        self.file_req_src = None
+        self.file_req_sbs = None
+        # self.filereqsrc = None
         self.driver = driver
 
 
@@ -70,8 +85,8 @@ class Reconciliation(BaseClass):
 
 
 
-    def rc_balance_import(self):
-
+    def rc_balance_import(self,filename):
+        self.file_req_src = filename
         print("hi")
         time.sleep(20)
         self.driver.find_element(By.XPATH,self.reconciliation_action_icon_xpath).click()
@@ -82,7 +97,10 @@ class Reconciliation(BaseClass):
         time.sleep(20)
         d = self.driver.find_element(By.XPATH,self.reconciliation_balance_import_choose_file_btn_xpath)
         time.sleep(20)
-        d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\b1.csv")
+        d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\"+self.file_req_src)
+        # // a[ @ title = '{}']".format(str(p[i]))).click()
+
+        #d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\b1.csv")
         # d = self.driver.find_element(By.XPATH, self.reconciliation_balance_import_choose_file_btn_xpath)
         # d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\b1.csv")
         time.sleep(20)
@@ -100,6 +118,11 @@ class Reconciliation(BaseClass):
         time.sleep(20)
         self.driver.find_element(By.XPATH,self.reconciliation_balance_import_data_load_results_xpath).click()
         time.sleep(20)
+        # THIS BELOW code is applicable for  rc autoclose business case
+        self.driver.find_element(By.XPATH, self.reconciliation_rc22_load_result_close_xpath).click()
+
+
+
 
         return self.driver
 
@@ -139,8 +162,8 @@ class Reconciliation(BaseClass):
         return self.driver
 
 
-    def rc_sbs_balance_import(self):
-
+    def rc_sbs_balance_import(self,filename):
+        self.file_req_sbs = filename
         print("hi")
         time.sleep(20)
         self.driver.find_element(By.XPATH,self.reconciliation_action_icon_xpath).click()
@@ -151,7 +174,8 @@ class Reconciliation(BaseClass):
         time.sleep(20)
         d = self.driver.find_element(By.XPATH,self.reconciliation_balance_import_choose_file_btn_xpath)
         time.sleep(20)
-        d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\b4.csv")
+        d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\"+self.file_req_sbs)
+        # d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\b4.csv")
         # d = self.driver.find_element(By.XPATH, self.reconciliation_balance_import_choose_file_btn_xpath)
         # d.send_keys("C:\\Users\\613367\\OneDrive - Cognizant\\Desktop\\nms1\\b1.csv")
         time.sleep(20)
@@ -169,6 +193,12 @@ class Reconciliation(BaseClass):
         time.sleep(20)
         self.driver.find_element(By.XPATH,self.reconciliation_balance_import_data_load_results_xpath).click()
         time.sleep(20)
+
+        #THIS BELOW code is applicable for  rc autoclose business case
+        self.driver.find_element(By.XPATH,self.reconciliation_rc22_load_result_close_xpath).click()
+
+
+
 
         return self.driver
 

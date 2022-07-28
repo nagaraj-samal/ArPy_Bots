@@ -14,6 +14,13 @@ class Home(BaseClass):
     profile_title_xpath = "//h1[text()='Profiles']"
     actual_profileTitle = "Profiles"
 
+    appClusterCard_period_xpath = "//*[@id='EPM_CA_116_2_2']"
+    profile_title_xpath = "//h1[text()='Profiles']"
+    actual_profileTitle = "Profiles"
+
+
+
+
     def __init__(self,driver):
         self.driver = driver
 
@@ -26,6 +33,17 @@ class Home(BaseClass):
         self.driver.find_element(By.XPATH, self.appClusterCard_profile_xpath).click()
         time.sleep(5)
         return self.driver
+
+
+    def period_launch(self):
+        # log = self.getLogger()
+        time.sleep(5)
+        self.driver.find_element(By.XPATH,self.appCluster_application_xpath).click()
+        time.sleep(5)
+        self.driver.find_element(By.XPATH, self.appClusterCard_period_xpath).click()
+        time.sleep(5)
+        return self.driver
+
 
 
 

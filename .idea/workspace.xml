@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="618ff74a-034b-4a87-ae8a-0f57a4059253" name="Changes" comment="Storing entire project from scratch">
-      <change afterPath="$PROJECT_DIR$/pageOjects/HomePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageOjects/ProfilePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageOjects/ReconciliationPage.py" afterDir="false" />
+    <list default="true" id="618ff74a-034b-4a87-ae8a-0f57a4059253" name="Changes" comment="Storing entire project from scratch on 300622">
+      <change afterPath="$PROJECT_DIR$/Screenshots/test_login_lp_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageOjects/PeriodPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configurations/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configurations/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageOjects/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageOjects/LoginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageOjects/HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageOjects/HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageOjects/ProfilePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageOjects/ProfilePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageOjects/ReconciliationPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageOjects/ReconciliationPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/BaseClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/BaseClass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651548294833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Storing entire project from scratch on 300622">
+      <created>1656596348774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656596348774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +205,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Storing entire project from scratch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Storing entire project from scratch" />
+    <MESSAGE value="Storing entire project from scratch on 300622" />
+    <option name="LAST_COMMIT_MESSAGE" value="Storing entire project from scratch on 300622" />
   </component>
 </project>

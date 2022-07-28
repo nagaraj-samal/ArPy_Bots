@@ -14,12 +14,6 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 
-
-
-
-
-
-
 class Profile(BaseClass):
     action_icon_xpath = "//*[@class='xfb']"
     profile_import_xpath = "//*[@id='zr1:0:zt0:0:psDash:0:importRec']"
@@ -52,8 +46,9 @@ class Profile(BaseClass):
 
     profile_rc22_selected_profile_xpath = "//*[@id='zr1:0:zt0:0:psDash:0:actionPanel:0:sorPer1:_0']"
 
+    profile_rc22_sel_profile_apply_xpath = "//button[@id='zr1:0:zt0:0:psDash:0:actionPanel:0:cmdPerConfirmationYes']"
 
-    profile_rc_creation_apply_xpath = "//button[@id='zr1:0:zt0:0:psDash:0:actionPanel:0:cbCopyToPeriod']"
+    profile_rc22_creation_apply_xpath = "//button[@id='zr1:0:zt0:0:psDash:0:actionPanel:0:cbCopyToPeriod']"
 
     profile_rc_for_all_apply_xpath = "//button[@id='zr1:0:zt0:0:psDash:0:actionPanel:0:cmdPerConfirmationYes']"
 
@@ -68,8 +63,6 @@ class Profile(BaseClass):
     profile_home_xpath = "//*[@id='emh1:cil1::icon']"
 
 
-
-
     profile_account_id_list = []
     profile_account_id_xpath = ''
 
@@ -77,22 +70,19 @@ class Profile(BaseClass):
     profile_account_name_xpath = ''
     # profile_account_id_xpath = "//span[text()='810001-101-P1']"
 
-
-
     profile_rule_xpath = "//*[@id='zr1:0:zt0:0:psDash:0:RecDfn:0:sdiRule::disAcr']"
-
 
     profile_account_name = ''
 
     profile_account_name_xpath =''
 
-
     profile_rule_added_xpath = "//td[text()='Auto Approve Reconciliation']"
 
     d={}
 
+    profile_rc22_load_result_close_xpath = "//button[@id='zr1:0:zt0:0:psDash:0:cmdManagePremappedBalancesClose']"
 
-
+    pa2 = '810001-105-p1'
 
 
     def __init__(self,driver):
@@ -114,7 +104,6 @@ class Profile(BaseClass):
 
 
     def get_existing_profile_count(self):
-
         time.sleep(10)
         log=self.getLogger()
         log.info("call in profile count validation method")
@@ -139,24 +128,24 @@ class Profile(BaseClass):
 
     def rc_creation(self):
 
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH,self.action_icon_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH,self.profile_rc_creation_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH,self.profile_rc_period_dropdown_xpath).click()
-        time.sleep(10)
+        time.sleep(5)
         self.driver.find_element(By.XPATH,self.profile_rc_period_item_xpath).click()
-        time.sleep(10)
+        time.sleep(5)
         self.driver.find_element(By.XPATH,self.profile_rc_creation_apply_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH,self.profile_rc_for_all_apply_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
 
         self.driver.find_element(By.XPATH,self.profile_rc_creation_close_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH,self.profile_rc_period_popup_close_xpath).click()
-        time.sleep(10)
+        time.sleep(5)
         return self.driver
 
 
@@ -275,7 +264,7 @@ class Profile(BaseClass):
 
 
     def  rc_creation_selected_profile(self):
-        time.sleep(20)
+        time.sleep(5)
         global pa1
         global pa2
         pa1='810001-104-p1'
@@ -286,28 +275,31 @@ class Profile(BaseClass):
         # self.driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.CONTROL + Keys.ARROW_DOWN)
 
         time.sleep(15)
-        self.driver.find_element(By.XPATH,"//span[text()='810001-104-p1']").click()
+        self.driver.find_element(By.XPATH,"//span[text()='810001-105-p1']").click()
         print("clickked with ctrl")
-        time.sleep(10)
+        #time.sleep(10)
 
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH, self.action_icon_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH, self.profile_rc_creation_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH, self.profile_rc_period_dropdown_xpath).click()
-        time.sleep(10)
+        time.sleep(5)
         self.driver.find_element(By.XPATH, self.profile_rc22_period_item_xpath).click()
-        time.sleep(10)
+        time.sleep(5)
 
-        self.driver.find_element(By.XPATH, self.profile_rc_creation_apply_xpath).click()
-        time.sleep(20)
-
+        # self.driver.find_element(By.XPATH, self.profile_rc_creation_apply_xpath).click()
+        self.driver.find_element(By.XPATH, self.profile_rc22_creation_apply_xpath).click()
+        time.sleep(5)
+        self.driver.find_element(By.XPATH, self. profile_rc22_sel_profile_apply_xpath).click()
+        time.sleep(5)
 
         self.driver.find_element(By.XPATH, self.profile_rc_creation_close_xpath).click()
-        time.sleep(20)
+        time.sleep(5)
         self.driver.find_element(By.XPATH, self.profile_rc_period_popup_close_xpath).click()
-        time.sleep(10)
+        time.sleep(5)
+
         return self.driver
 
 
