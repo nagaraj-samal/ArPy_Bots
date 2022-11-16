@@ -8,6 +8,7 @@ from pageOjects.ProfilePage import Profile
 from pageOjects.ReconciliationPage import Reconciliation
 from utilities.readProperties import ReadConfig
 from utilities.BaseClass import BaseClass
+from selenium.webdriver.support.ui import WebDriverWait
 
 
 @pytest.mark.usefixtures("setup")
@@ -24,6 +25,7 @@ class Test_001_Login(BaseClass):
     rule_name = 'Auto Approve Reconciliation'
 
     def test_homepage_title(self):
+
         self.log = self.getLogger()
         self.log.info("************* homepage_title test started**************")
         driver = self.driver
@@ -375,40 +377,40 @@ class Test_001_Login(BaseClass):
             driver = self.driver
             # self.driver.get(self.baseURL)
             self.o2 = Test_001_Login()
-            time.sleep(5)
+            #time.sleep(5)
             self.lp = Login(self.driver)
-            time.sleep(5)
+            #time.sleep(5)
             self.lp.set_username(self.o2.username)
-            time.sleep(5)
+            #time.sleep(5)
             self.driver = self.lp.set_password(self.o2.password)
-            time.sleep(5)
+            #time.sleep(5)
             self.driver = self.lp.click_login()
-            time.sleep(10)
+            #time.sleep(10)
             self.hapr = Home(self.driver)
             self.driver = self.hapr.period_launch()
-            time.sleep(10)
+            #time.sleep(10)
             self.prd1 = Period(self.driver)
             self.driver = self.prd1.period_src_data_load("b2_src.csv")
-            time.sleep(10)
+            #time.sleep(10)
             print("period loaded successfully")
             self.driver = self.prd1.period_sbs_data_load("b2_sbc.csv")
             print("Period loaded successfully for subsys")
-            time.sleep(10)
+            #time.sleep(10)
             self.driver.find_element(By.XPATH, self.prd1.period_home_xpath).click()
-            time.sleep(5)
+            #time.sleep(5)
             self.driver = self.hapr.profile_launch()
-            time.sleep(5)
+            #time.sleep(5)
             self.pro3 = Profile(self.driver)
             self.driver = self.pro3.rc_creation_selected_profile()
-            time.sleep(6)
+            #time.sleep(6)
             self.driver.find_element(By.XPATH, self.pro3.profile_home_xpath).click()
-            time.sleep(5)
+            #time.sleep(5)
             self.rc1 = Reconciliation(self.driver)
             self.driver.find_element(By.XPATH, self.rc1.reconciliation_cluster_xpath).click()
-            time.sleep(5)
+            #time.sleep(5)
             print(self.pro3.pa2)
             l= self.driver.find_element(By.XPATH,self.rc1.rc_search_box_xpath)
-            time.sleep(5)
+            #time.sleep(5)
             l.send_keys(self.pro3.pa2)
             time.sleep(5)
             k=self.driver.find_element(By.XPATH,self.rc1.rc_created_status_xpath)

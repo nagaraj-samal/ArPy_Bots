@@ -268,7 +268,7 @@ class Profile(BaseClass):
         global pa1
         global pa2
         pa1='810001-104-p1'
-        pa2='810001-105-p1'
+        self.pa2='810001-105-p1'
 
         # self.driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.CONTROL + Keys.ARROW_DOWN)
         #
@@ -278,6 +278,7 @@ class Profile(BaseClass):
         self.driver.find_element(By.XPATH,"//span[text()='810001-105-p1']").click()
         print("clickked with ctrl")
         #time.sleep(10)
+        #'810001-105-p1'
 
         time.sleep(5)
         self.driver.find_element(By.XPATH, self.action_icon_xpath).click()
